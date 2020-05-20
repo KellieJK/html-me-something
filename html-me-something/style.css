@@ -1,56 +1,28 @@
 
-h1 {
+h1, h2 {
   text-decoration: underline;
-}
-h1 {
   margin: 25px 90px 75px 100px;
+  border: 10px dotted rgb(183, 213, 218);
+  padding: 23px;
+  background: rgb(192, 123, 151); 
+  
 }
-
 
 body {
   margin: 25px 50px;
+  background-color: rgba(187, 241, 216, 0.767);  
+  color: #0d4905;                 
+  font-size: 18px;
+  margin: 45px 75px 75px 100px;
 }
 
-h4 {
-  margin: 25px 50px;
-}
 
-h5 {
-  margin: 25px 50px;
-}
-
-h1 {
-  border: 10px dotted rgb(183, 213, 218);
-  padding: 23px;
-  background: rgb(192, 123, 151);
- }
-
- h2 {
-  border: 10px dotted rgb(183, 213, 218);
-  padding: 23px;
-  background: rgb(192, 123, 151);
- }
-
-h6 {
+h3 {
   padding-top: 20px;
   padding-right: 30px;
   padding-bottom: 20px;
   padding-left: 80px;
-}
-h6 {
   color: #031192;                 
   font-size: 24px;
 }
 
-body {
-  margin: 45px 75px 75px 100px;
-}
-
-body {
-  color: #0d4905;                 
-  font-size: 18px;
-}
-
-body {
- background-color: rgba(187, 241, 216, 0.767);
-}
